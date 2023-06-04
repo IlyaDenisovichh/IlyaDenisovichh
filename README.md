@@ -6,7 +6,7 @@
 [![Postman](https://img.shields.io/badge/Postman-460151??style=for-the-badge&logo=Postman&logoColor=2719D3)](https://www.postman.com/)
 ![JS](https://img.shields.io/badge/JS-460151??style=for-the-badge&logo=JavaScript&logoColor=2719D3)
 ![DevTools](https://img.shields.io/badge/DevTools-460151??style=for-the-badge&logo=Google&logoColor=2719D3)
-![Git](https://img.shields.io/badge/Git-460151??style=for-the-badge&logo=Git&logoColor=2719D3?https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-460151??style=for-the-badge&logo=Git&logoColor=2719D3)](https://git-scm.com/)
 [![Fifma](https://img.shields.io/badge/Figma-460151??style=for-the-badge&logo=Figma&logoColor=2719D3)](https://www.figma.com/proto/SqfEMHj0EmSBm8vpZecLBF/portfolio?type=design&node-id=0-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 [![SQL](https://img.shields.io/badge/SQL-460151??style=for-the-badge&logo=mysql&logoColor=2719D3)](https://www.mysql.com/) 
 ![API](https://img.shields.io/badge/API-460151??style=for-the-badge&logo=&logoColor=2719D3)
