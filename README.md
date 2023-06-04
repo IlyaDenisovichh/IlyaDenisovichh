@@ -1,6 +1,6 @@
 ![Header ](https://github.com/IlyaDenisovichh/IlyaDenisovichh/blob/main/assets/Ilia_Denisovich.jpg)
 
-## "Я инженер по контролю качества, страстно стремящийся обеспечить качество программного обеспечения с помощью тщательного тестирования и внимания к деталям".
+## I'm a  QA Engineer with a passion for ensuring software quality through meticulous testing and attention to detail.
 
 Latest 
 
