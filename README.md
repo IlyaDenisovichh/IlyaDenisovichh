@@ -5,18 +5,16 @@
 Latest 
 
 
-![REST](https://img.shields.io/badge/REST-460151??style=for-the-badge&logo=REST&logoColor=2719D3)
 ![Postman](https://img.shields.io/badge/Postman-460151??style=for-the-badge&logo=Postman&logoColor=2719D3)
 ![JS](https://img.shields.io/badge/JS-460151??style=for-the-badge&logo=JavaScript&logoColor=2719D3)
-![API](https://img.shields.io/badge/API-460151??style=for-the-badge&logo=&logoColor=2719D3)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-460151??style=for-the-badge&logo=&logoColor=2719D3)
-
 ![DevTools](https://img.shields.io/badge/DevTools-460151??style=for-the-badge&logo=Google&logoColor=2719D3)
 ![Git](https://img.shields.io/badge/Git-460151??style=for-the-badge&logo=Git&logoColor=2719D3)
+
 ![Fifma](https://img.shields.io/badge/Figma-460151??style=for-the-badge&logo=Figma&logoColor=2719D3)
-![SQL](https://img.shields.io/badge/SQL-460151??style=for-the-badge&logo=SQL&logoColor=2719D3)
- 
- follow me 
+![SQL](https://img.shields.io/badge/SQL-460151??style=for-the-badge&logo=mysql&logoColor=2719D3) 
+![API](https://img.shields.io/badge/API-460151??style=for-the-badge&logo=&logoColor=2719D3)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-460151??style=for-the-badge&logo=&logoColor=2719D3)
+![REST](https://img.shields.io/badge/REST-460151??style=for-the-badge&logo=REST&logoColor=2719D3)
 
 
 
